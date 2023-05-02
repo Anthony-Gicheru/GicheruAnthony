@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GicheruAnthony
-- 👀 I’m interested in fulstack dev
+- 👀 I’m interested in fullstack dev
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
